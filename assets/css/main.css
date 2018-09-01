@@ -301,8 +301,8 @@ input, select, textarea {
 			margin: 3em 0;
 		}
 
-	.align-left {
-		text-align: left;
+	.align-right {
+		text-align: right;
 	}
 
 	.align-center {
